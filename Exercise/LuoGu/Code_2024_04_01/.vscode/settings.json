@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "*.czml": "jsonc",
+    "ostream": "cpp"
+  }
+}

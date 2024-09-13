@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "string_view": "c",
+        "bit": "c",
+        "*.tcc": "c",
+        "functional": "c",
+        "random": "c",
+        "istream": "c",
+        "limits": "c",
+        "numeric": "c",
+        "math.h": "c"
+    }
+}

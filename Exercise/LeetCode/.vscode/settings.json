@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.czml": "jsonc",
+        "vector": "cpp",
+        "set": "cpp"
+    }
+}
